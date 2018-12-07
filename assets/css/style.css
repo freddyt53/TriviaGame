@@ -1,14 +1,7 @@
 .jumbotron {
 	background-image: url("https://cdn.now.howstuffworks.com/media-content/3d6b4a4b-d966-4485-baae-1406ab3b905e-1920-1080.jpg");
     align-items: center;
-	justify-content: center;
-	/*font-size: 1rem;
-
-    /*top: 0;
-    left: 0;
-
-    min-width: 100%;
-    min-height: 100%; */
+	justify-content: center;	
 }
 
 h1 {
@@ -23,10 +16,4 @@ h1 {
 	align-content: center;
 	font-size: 1.5rem;
 	opacity: 0.75;
-
-    
-    top: 0;
-    left: 0;
-
-    
 }

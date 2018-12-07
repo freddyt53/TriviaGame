@@ -1,9 +1,9 @@
-// Initialize Document
+//
 
+// Initialize Document
 $( document ).ready ( function () {
 
     //Game variables
-    
         var questionsAndAnswersArray = [
             {
                 question: "What is the capital of Australia?",
